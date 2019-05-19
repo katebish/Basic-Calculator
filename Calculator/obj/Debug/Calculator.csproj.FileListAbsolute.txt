@@ -1,0 +1,14 @@
+C:\Users\Kate\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Kate\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Kate\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Kate\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Kate\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Kate\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Kate\source\repos\Basic-Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Kate\source\repos\Basic-Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Kate\source\repos\Basic-Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Kate\source\repos\Basic-Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Kate\source\repos\Basic-Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\Basic-Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Kate\source\repos\Basic-Calculator\Calculator\obj\Debug\Calculator.pdb
